@@ -16,3 +16,5 @@ repeat task.wait() until (game:IsLoaded());
 for i,v in pairs(getconnections(game:GetService('Players').LocalPlayer.Idled)) do
     v:Disable();
 end;
+
+-- // thank you koro for the scripts above
