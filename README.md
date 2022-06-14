@@ -10,3 +10,8 @@ pip install -r requirements.txt
 you can change stuff around or something
 
 make sure you put reconnect.lua in your autoexec when using index.py
+
+# Features:
+
+syn x crash detection
+auto switch nord vpn as soon as you get unexpected
