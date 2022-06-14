@@ -16,3 +16,6 @@ make sure you put reconnect.lua in your autoexec when using index.py
 syn x crash detection
 
 auto switch nord vpn as soon as you get unexpected
+
+now you may be asking yourself but what if synapse doesnt crash and roblox just randomly closes??:
+
