@@ -8,3 +8,5 @@ you need a working nord vpn account
 pip install -r requirements.txt
 
 you can change stuff around or something
+
+make sure you put reconnect.lua in your autoexec when using index.py
